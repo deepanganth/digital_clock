@@ -1,0 +1,15 @@
+html{
+    background-color: black;
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    color: lime;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+    word-spacing: 3px;
+    transform: translateX(50%);
+    border: 2px solid lightskyblue;
+}
